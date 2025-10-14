@@ -3,7 +3,7 @@ This is a **tiny, completely offline language model** built only with PyTorch an
 
 ## Requirements
 ```bash
-pip install torch transformers tokenizers
+pip install -r requirements.txt
 ````
 
 ## Train
