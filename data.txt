@@ -1,0 +1,6 @@
+Artificial intelligence is transforming the world.
+Machine learning models can learn patterns from data.
+Local models can be trained without any internet connection.
+This is a simple offline language model built using PyTorch.
+
+
